@@ -1,2 +1,2 @@
-# kiwi-backlog-porject-api
+# kiwi-backlog-project-api
 <img src="./kiwiBPMD.png" alt="kiwiLogo"/>
